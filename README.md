@@ -1,1 +1,1 @@
-# gerenciamento-escolar
+# Modelo cru de aplicação em NodeJS com driver MySQL
